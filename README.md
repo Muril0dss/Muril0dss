@@ -26,3 +26,16 @@ const Murilo = {
 💬 Pergunte-me sobre Java, C ou desenvolvimento de software.
 
 📫 Entre em contato comigo: [murilo1771.ms@gmail.com]
+
+------En------
+🔭 I’m currently looking for an internship opportunity in tech.
+
+🌱 I’m a 4th semester Computer Science student at PUCRS (Brazil).
+
+🌐 I’m interested in collaborating on projects with social impact through technology.
+
+🤔 I’m currently learning Python and good development practices.
+
+💬 Ask me about Java, C or software development.
+
+📫 How to reach me: [murilo1771.ms@gmail.com]
